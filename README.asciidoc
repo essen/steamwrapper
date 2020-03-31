@@ -1,0 +1,21 @@
+= steamwrapper
+
+This program has been written in order to add achievements
+to https://store.steampowered.com/app/661470/The_Gateway_Trilogy/[The Gateway Trilogy]
+in a non-intrusive fashion (mainly because the game engine
+does not make it easy to add achievements otherwise). The
+game writes achievements to a file that is monitored for
+modification. When modified achievements are stored
+immediately.
+
+If you use this program for your game please credit me
+(Loïc Hoguin). If you wish to distribute or modify the
+source code, please check the LICENSE file.
+
+Enjoy!
+
+== Games using this program
+
+The following games are known to use this program:
+
+* https://store.steampowered.com/app/661470/The_Gateway_Trilogy/[The Gateway Trilogy]
