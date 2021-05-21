@@ -8,6 +8,11 @@ game writes achievements to a file that is monitored for
 modification. When modified achievements are stored
 immediately.
 
+The following backends are supported:
+
+* Steam
+* GOG Galaxy
+
 If you use this program for your game please credit me
 (Loïc Hoguin). If you wish to distribute or modify the
 source code, please check the LICENSE file.
@@ -18,4 +23,5 @@ Enjoy!
 
 The following games are known to use this program:
 
+* https://store.steampowered.com/bundle/477/The_Dream_Machine__Full_Game/[The Dream Machine]
 * https://store.steampowered.com/app/661470/The_Gateway_Trilogy/[The Gateway Trilogy]
